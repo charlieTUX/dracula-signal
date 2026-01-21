@@ -9,8 +9,8 @@
 1. Open `C:\Users\user_name\AppData\Local\Programs\signal-desktop\resources\app.asar` with 7zip.
 1. Go into stylesheets directory.
 1. Copy the theme you want to use into the directory.
-1. Right click and edit `manifest.css` file and add import statement at the top. `@import "catppuccin-<flavor>.css";` Replace `<flavor>` with flavor you want to use.
-1. Save and close your editor.
+1. Right click and edit `manifest.css` file and add import statement at the top. `@import "themes.css";` 
+Save and close your editor.
 1. Enjoy!
 
 # Linux
