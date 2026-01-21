@@ -32,7 +32,7 @@ Save and close your editor.
 	```
 4. Download the theme file from this repository
 	```bash
-	curl "https://raw.githubusercontent.com/charlieTUX/dracula-signal/themes.css" -o "${TEMP}/stylesheets/themes.css"
+	curl "https://raw.githubusercontent.com/charlieTUX/dracula-signal/refs/heads/main/themes.css" -o "${TEMP}/stylesheets/themes.css"
 	```
 5. Add import for the Catppuccin theme to the start of `manifest.css`
 	```bash
