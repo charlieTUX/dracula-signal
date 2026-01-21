@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/Signal](https://draculatheme.
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/charlieTUX.png?size=100)](https://github.com/charlieTUX) | 
+| [![CharlieTUX](https://github.com/charlieTUX.png?size=100)](https://github.com/charlieTUX) | 
 | ------------------------------------------------------------------------------------------ | 
-| [Zeno Rocha](https://github.com/charlieTUX)                                                | 
+| [CharlieTUX](https://github.com/charlieTUX)                                                | 
 
 ## Community
 
