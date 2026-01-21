@@ -2,7 +2,7 @@
 
 > A dark theme for [Signal desktop](https://signal.org).
 
-![Screenshot](./screenshot.png)
+inspired of [Catppuccin themes](https://github.com/CalfMoon/signal-desktop)
 
 ## Install
 
