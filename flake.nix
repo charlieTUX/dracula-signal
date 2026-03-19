@@ -11,7 +11,7 @@
          style = ./themes.css;
 	 name = "signal-desktop-dracula";
 	 version = p.signal-desktop.version;
-	 src = p.signal-destkop.src;
+	 src = p.signal-desktop.src;
 	 asarSource = "share/signal-desktop/app.asar";
 	 styleSource = "stylesheets/manifest.css";
        in {
