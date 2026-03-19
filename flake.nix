@@ -36,7 +36,7 @@
                            --add-flags "\''${NIXOS_OZONE_WL:+\''${WAYLAND_DISPLAY:+--enable-features=WaylandWindowDecorations --enable-wayland-ime=true}}" \
               	'';
             desktopItems = [
-              (f.makeDesktopItem {
+              (p.makeDesktopItem {
                 name = "signal";
                 desktopName = "Signal";
                 exec = "signal-desktop %U";
